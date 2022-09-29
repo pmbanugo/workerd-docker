@@ -1,6 +1,8 @@
 # workerd-docker
 
-A simple URL shortener implemented using Workers (workerd) running in Docker/Kubernetes
+A simple URL shortener implemented using Workers (workerd) running in Docker/Kubernetes.
+
+See this [blog post](https://pmbanugo.me/running-cloudflare-workers-on-docker-kubernetes) for some details.
 
 > Forked and modifed sample from https://github.com/WalshyDev/workerd-example
 
