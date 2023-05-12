@@ -22,6 +22,6 @@
   "dependencies": {
     "hono": "^2.2.1",
     "nanoid": "^4.0.0",
-    "workerd": "^1.20220926.1"
+    "workerd": "^1.20230419.0"
   }
 }
