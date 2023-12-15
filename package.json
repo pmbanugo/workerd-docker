@@ -20,7 +20,7 @@
     "typescript": "^4.8.3"
   },
   "dependencies": {
-    "hono": "^2.2.1",
+    "hono": "^3.11.7",
     "nanoid": "^4.0.0",
     "workerd": "^1.20230419.0"
   }
